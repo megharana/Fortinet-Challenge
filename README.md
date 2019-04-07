@@ -1,3 +1,4 @@
+* Follow below steps for setting up the web application
 - Go to the desired folder
 
 - open cmd or terminal.
