@@ -1,4 +1,4 @@
-* Follow below steps for setting up the web application
+# Follow below steps for setting up the web application
 - Go to the desired folder
 
 - open cmd or terminal.
@@ -35,4 +35,4 @@
   - <python manage.py moveCSVToDb > -- for dumping into DB from CSV which is located locally in FortinetBackend folder.
   - <python manage.py runserver> -- for actiavting server
 
-NOTE: dbScripts is submitted in separate folder named as "dbScripts" as well as located in "WorldBhojanalaya/WorldBhojanalaya/bhojanalayas/management/commands/moveCSVToDb.py"
+*NOTE*: *dbScripts is submitted in separate folder named as "dbScripts" as well as located in "WorldBhojanalaya/WorldBhojanalaya/bhojanalayas/management/commands/moveCSVToDb.py"
